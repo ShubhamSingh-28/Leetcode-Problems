@@ -1,23 +1,34 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int n = nums1.length;
-        int m = nums2.length;
-        double ans = 0.0;  //1,2,3,4
-        int arr[] = new int[n+m];
-        int k = 0;
-        for (int i = 0; i < n; i++) {
-            arr[k++] = nums1[i];
+        int n1 = nums1.length;
+        int n2 = nums2.length;
+        int total = n1+n2;
+        if (n1>n2) {
+            return findMedianSortedArrays(nums2, nums1);
         }
-        for (int i = 0; i < m; i++) {
-            arr[k++] = nums2[i];
-        }
-        Arrays.sort(arr);
-        if (arr.length%2==1) {
-            ans = arr[arr.length/2];
-        } else{
-            ans = (double)(arr[(arr.length)/2]+arr[(arr.length/2-1)])/2;
-        }
+        int start = 0;
+        int end = n1;
 
-        return ans;
+        while (start<=end) {
+            // mid -> cut1
+            int cut1 = start+(end-start)/2;
+            int cut2 = total/2 - cut1;
+            int left1 = (cut1==0)?Integer.MIN_VALUE:nums1[cut1-1];
+            int left2 = (cut2==0)?Integer.MIN_VALUE:nums2[cut2-1];
+            int right1 = (cut1==n1)?Integer.MAX_VALUE:nums1[cut1];
+            int right2 = (cut2==n2)?Integer.MAX_VALUE:nums2[cut2];
+            if (left1<=right2 && left2<=right1) {
+                if (total%2!=0) {
+                    return (double)Math.min(right1, right2);
+                } else{
+                    return (double)((Math.max(left1, left2)+Math.min(right1, right2))/2.0);
+                }
+            } else if (left1>right2) {
+                end= cut1-1;
+            } else {
+                start= cut1+1;
+            }
+        }
+        return 0.0;
     }
 }
