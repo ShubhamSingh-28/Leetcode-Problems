@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
