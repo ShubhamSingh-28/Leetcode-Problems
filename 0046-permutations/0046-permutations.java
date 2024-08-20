@@ -9,7 +9,7 @@ class Solution {
     public void solve(int[] nums, int ind, List<List<Integer>> res){
         int n = nums.length;
         //base case
-        if(ind == n){
+        if(ind == n-1){
             List<Integer> sublist = new ArrayList<Integer>();
             for(int i : nums){
                 sublist.add(i);
