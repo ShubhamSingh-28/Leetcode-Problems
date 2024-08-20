@@ -27,9 +27,9 @@ class Solution {
 
              // for skipping duplicate arrays
 
-             while (i < n - 1 && nums[i] == nums[i + 1]) {
-                    i++;
-                }
+            //  while (i < n - 1 && nums[i] == nums[i + 1]) {
+            //         i++;
+            //     }
         }
     }
 
