@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0066-plus-one) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
