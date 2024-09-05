@@ -57,9 +57,9 @@ class Solution {
             anstail=anstail.next;
          }
 
-         ListNode t1 = anshead;
+         //ListNode t1 = anshead;
          anshead=anshead.next;
-         t1.next=null;
+        // t1.next=null;
          return anshead;
 
     }
