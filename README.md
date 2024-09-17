@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Recursion
@@ -295,12 +298,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
