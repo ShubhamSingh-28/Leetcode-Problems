@@ -16,9 +16,9 @@
 class Solution {
     public boolean findTarget(TreeNode root, int k) {
         HashSet<Integer> set= new HashSet<>();
-        int target=k;
+       // int target=k;
         int count[]=new int[1];
-        dfs(root,set, target, count);
+        dfs(root,set, k, count);
         if(count[0] >0){
             return true;
         } else{
