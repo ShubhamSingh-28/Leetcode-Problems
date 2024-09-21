@@ -13,6 +13,8 @@
  *     }
  * }
  */
+ /*
+      1 approach with set
 class Solution {
     public boolean findTarget(TreeNode root, int k) {
         HashSet<Integer> set= new HashSet<>();
@@ -36,5 +38,35 @@ class Solution {
         set.add(k-root.val);
         dfs(root.left, set,k,count);
         dfs(root.right, set,k,count);
+    }
+}
+*/
+
+class Solution {
+    public boolean findTarget(TreeNode root, int k) {
+        ArrayList<Integer> list= new ArrayList<>();
+        dfs(root,list);
+        int s=0;
+        int e= list.size()-1;
+        while(s<e){
+            int sum= list.get(s)+list.get(e);
+            if(sum==k){
+                return true;
+            }
+            if(sum<k){
+                s++;
+            } else{
+                e--;
+            }
+        }
+        return false;
+    }
+    public void dfs(TreeNode root, ArrayList<Integer> list){
+        if(root==null){
+            return;
+        }
+        dfs(root.left, list);
+        list.add(root.val);
+        dfs(root.right, list);
     }
 }
