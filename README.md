@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Math
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0733-flood-fill) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1035-cousins-in-binary-tree](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1035-cousins-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Breadth-First Search
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0399-evaluate-division) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Linked List
 |  |
 | ------- |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0399-evaluate-division) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Shortest Path
 |  |
