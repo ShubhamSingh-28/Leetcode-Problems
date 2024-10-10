@@ -1,11 +1,22 @@
 class Solution {
-    public void dfs(int a, List<List<Integer>> adj,boolean visited[]){
+    public void dfs(int a, List<List<Integer>> adj,boolean visited[],Queue<Integer> q){
         visited[a]=true;
-            for(int neigh : adj.get(a)){
-                if(!visited[neigh]){
-                dfs(neigh,adj, visited);
+        q.offer(a);
+
+        while(!q.isEmpty()){
+            int node = q.poll();
+            for (int neighour : adj.get(node)) {
+                if (!visited[neighour]) {
+                    visited[neighour]=true;
+                    q.offer(neighour);
                 }
             }
+        }
+            // for(int neigh : adj.get(a)){
+            //     if(!visited[neigh]){
+            //     dfs(neigh,adj, visited);
+            //     }
+            // }
     }
     public int removeStones(int[][] stones) {
         int n= stones.length;
@@ -22,10 +33,11 @@ class Solution {
             }
         }
         boolean visited[] = new boolean[n];
+         Queue<Integer>  q = new LinkedList<>();
         int components=0;
         for(int i=0;i<n;i++){
             if(!visited[i]){
-                dfs(i,adj, visited);
+                dfs(i,adj, visited,q);
                 components++;
             }
         }
