@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-get-watched-videos-by-your-friends](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0502-ipo) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Simulation
 |  |
 | ------- |
