@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0066-plus-one) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
