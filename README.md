@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Math
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0052-n-queens-ii) |
 | [0131-palindrome-partitioning](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
