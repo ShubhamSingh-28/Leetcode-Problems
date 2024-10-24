@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0502-ipo](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0502-ipo) |
 | [0670-maximum-swap](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0670-maximum-swap) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
