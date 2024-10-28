@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
@@ -543,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
