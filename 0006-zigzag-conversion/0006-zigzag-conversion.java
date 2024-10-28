@@ -1,19 +1,19 @@
 class Solution {
     public String convert(String s, int numRows) {
 
-        if(numRows==1 || numRows>=s.length()-1){
+        if(numRows==1 || numRows>=s.length()){
             return s;
         }
         int idx=0;
         int d=0;
 
-        List<Character>[] list= new ArrayList[numRows];
+        List<List<Character>> list= new ArrayList<>();
         for(int i=0;i<numRows;i++){
-            list[i]= new ArrayList<>();
+            list.add(new ArrayList<>());
         }
 
         for(char c:s.toCharArray()){
-            list[idx].add(c);
+            list.get(idx).add(c);
             if(idx==0){
                 d=1;
             } else if(idx==numRows-1){
