@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 ## Tree
 |  |
 | ------- |
