@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
