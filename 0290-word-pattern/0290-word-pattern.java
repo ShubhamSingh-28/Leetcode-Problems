@@ -9,7 +9,7 @@ class Solution {
         boolean can=true;
         for(char c : pattern.toCharArray()){
             if(map.containsKey(c)){
-                if(!Objects.equals(map.get(c),arr[i])){
+                if(!map.get(c).equals(arr[i])){
                     return false;
                 }
             } else{
