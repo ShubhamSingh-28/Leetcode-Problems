@@ -6,7 +6,6 @@ class Solution {
         }
         HashMap<Character,String> map= new HashMap<>();
         int i=0;
-        boolean can=true;
         for(char c : pattern.toCharArray()){
             if(map.containsKey(c)){
                 if(!map.get(c).equals(arr[i])){
