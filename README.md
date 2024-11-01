@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0148-sort-list) |
