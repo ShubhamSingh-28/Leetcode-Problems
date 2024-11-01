@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0127-word-ladder) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
