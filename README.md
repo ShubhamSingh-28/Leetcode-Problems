@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Matrix
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0344-reverse-string) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0937-online-stock-span) |
