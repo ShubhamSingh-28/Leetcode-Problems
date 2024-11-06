@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0735-asteroid-collision) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -612,4 +617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
