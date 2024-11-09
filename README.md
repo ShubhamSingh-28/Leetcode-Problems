@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0058-length-of-last-word) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0047-permutations-ii) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
