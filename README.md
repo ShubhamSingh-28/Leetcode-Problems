@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2716-prime-subtraction-operation) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2716-prime-subtraction-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0670-maximum-swap](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -666,4 +670,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
