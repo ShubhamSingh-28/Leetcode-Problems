@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1940-maximum-xor-for-each-query](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2716-prime-subtraction-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0502-ipo) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
