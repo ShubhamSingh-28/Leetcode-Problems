@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1032-satisfiability-of-equality-equations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -685,4 +688,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2716-prime-subtraction-operation) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
