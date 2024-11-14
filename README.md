@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0125-valid-palindrome) |
