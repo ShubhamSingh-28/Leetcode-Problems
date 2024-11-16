@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
