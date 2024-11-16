@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0792-binary-search) |
+| [0860-design-circular-queue](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1032-satisfiability-of-equality-equations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0860-design-circular-queue](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
+| [0860-design-circular-queue](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
@@ -728,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0860-design-circular-queue) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
