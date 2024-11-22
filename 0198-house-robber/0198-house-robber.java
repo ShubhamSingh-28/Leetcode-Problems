@@ -3,6 +3,7 @@ class Solution {
         int dp[]=  new int[nums.length+1];
         Arrays.fill(dp,-1);
         return robsmemo(nums,nums.length-1,dp);
+        //return  robs(nums,nums.length-1);
     }
     // public int robs(int[] nums, int n) {
     //     if(n<0){
