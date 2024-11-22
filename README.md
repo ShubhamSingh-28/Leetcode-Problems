@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0399-evaluate-division) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0502-ipo) |
