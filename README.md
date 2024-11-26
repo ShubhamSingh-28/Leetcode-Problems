@@ -737,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1436-get-watched-videos-by-your-friends) |
+| [3189-find-champion-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
