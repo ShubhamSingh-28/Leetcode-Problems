@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
