@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [2089-maximum-matrix-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2089-maximum-matrix-sum) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0502-ipo) |
 | [0744-network-delay-time](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Simulation
 |  |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -746,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1436-get-watched-videos-by-your-friends) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -755,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Enumeration
 |  |
