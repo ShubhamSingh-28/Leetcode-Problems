@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2716-prime-subtraction-operation) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Math
 |  |
 | ------- |
