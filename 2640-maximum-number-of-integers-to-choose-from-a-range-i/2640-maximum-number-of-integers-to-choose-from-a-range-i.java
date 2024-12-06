@@ -8,11 +8,10 @@ class Solution {
         int sum=0;
         for(int i=1;i<=n;i++){
             if(!set.contains(i)){
-                if(sum+i>maxSum){
-                    break;
-                }
+                if(sum+i<=maxSum){
                  ans++;
-                sum+=i;
+                 sum+=i;
+                }
             }
         }
         return ans;
