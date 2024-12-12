@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0721-accounts-merge) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0684-redundant-connection) |
