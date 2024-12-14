@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
+| [0971-shortest-bridge](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0971-shortest-bridge) |
 | [1032-satisfiability-of-equality-equations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
+| [0971-shortest-bridge](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1380-number-of-closed-islands](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1380-number-of-closed-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
+| [0971-shortest-bridge](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0971-shortest-bridge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1035-cousins-in-binary-tree) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
+| [0971-shortest-bridge](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0971-shortest-bridge) |
 | [1035-cousins-in-binary-tree](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1380-number-of-closed-islands](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1380-number-of-closed-islands) |
