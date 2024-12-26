@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
