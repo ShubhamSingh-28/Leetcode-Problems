@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [1940-maximum-xor-for-each-query](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2580-circular-sentence) |
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3427-special-array-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
