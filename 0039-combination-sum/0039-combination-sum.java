@@ -5,23 +5,20 @@ class Solution {
         recur(candidates,target,0,res,cur);
         return res;
     }
-    public void recur(int[] candidates, int target,int ind,List<List<Integer>> res,List<Integer> cur ){
-        // base case
-        int n = candidates.length;
-        if(ind == n){
-            if(target == 0){
-            res.add( new ArrayList<Integer>(cur));
-            }
+
+    public void recur(int[] candidates, int target,int ind, List<List<Integer>> res,List<Integer> cur){
+        if(ind==candidates.length){
+            if(target==0){
+            res.add(new ArrayList<>(cur));
+        }
             return;
         }
-
-        // main case
-
-        if(candidates[ind]<=target){
+        if(target>=candidates[ind]){
             cur.add(candidates[ind]);
             recur(candidates,target-candidates[ind],ind,res,cur);
             cur.remove(cur.size()-1);
         }
-        recur(candidates,target,ind+1,res,cur);
+        recur(candidates,target, ind+1,res,cur);
     }
+   
 }
