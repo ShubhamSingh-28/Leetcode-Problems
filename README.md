@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1364-tuple-with-same-product](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1380-number-of-closed-islands](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1380-number-of-closed-islands) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1023-time-based-key-value-store) |
+| [1364-tuple-with-same-product](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [1364-tuple-with-same-product](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Quickselect
