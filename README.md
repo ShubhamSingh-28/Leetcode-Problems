@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2434-design-a-number-container-system](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1023-time-based-key-value-store) |
+| [2434-design-a-number-container-system](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1022,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2868-continuous-subarrays) |
 ## Geometry
 |  |
