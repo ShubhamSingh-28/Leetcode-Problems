@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0733-flood-fill) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
@@ -955,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [1160-letter-tile-possibilities](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
