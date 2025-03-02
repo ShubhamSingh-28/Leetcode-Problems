@@ -1,6 +1,6 @@
 class Solution {
     public int[][] mergeArrays(int[][] nums1, int[][] nums2) {
-        Map<Integer,Integer> map= new HashMap<>();
+        Map<Integer,Integer> map= new TreeMap<>();
         for(int num[]:nums1){
             map.put(num[0],num[1]);
         }
@@ -24,7 +24,7 @@ class Solution {
             res[i][1]=val;
             i++;
         }
-        Arrays.sort(res,(a,b)->a[0]-b[0]);
+        //Arrays.sort(res,(a,b)->a[0]-b[0]);
         return res;
     }
 }
