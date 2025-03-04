@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0937-online-stock-span) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Data Stream
