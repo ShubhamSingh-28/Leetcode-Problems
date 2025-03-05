@@ -9,7 +9,7 @@ class Solution {
 
         for(int n:nums){
             int temp=max*n;
-            max=Math.max(temp,Math.max(n,min*n));
+             max=Math.max(temp,Math.max(n,min*n));
             min= Math.min(temp,Math.min(n,min*n));
             res=Math.max(res,max);
         }
