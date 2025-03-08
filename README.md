@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -880,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1755-defuse-the-bomb](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2868-continuous-subarrays) |
