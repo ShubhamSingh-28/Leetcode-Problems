@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3643-zero-array-transformation-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -873,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [3427-special-array-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
 | ------- |
