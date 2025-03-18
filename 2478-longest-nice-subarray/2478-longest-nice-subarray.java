@@ -16,7 +16,7 @@ class Solution {
     }
     public int longestNiceSubarray(int[] nums) {
         int s=0;
-        int e=1;
+        int e=0;
         int n=nums.length;
         int len=1;
         while(e<n){
