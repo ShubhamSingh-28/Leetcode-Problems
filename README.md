@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-get-watched-videos-by-your-friends](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2716-prime-subtraction-operation) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2089-maximum-matrix-sum) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
