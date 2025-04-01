@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
@@ -919,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [1755-defuse-the-bomb](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
