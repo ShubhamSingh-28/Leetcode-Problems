@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2262-solving-questions-with-brainpower](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 ## Depth-First Search
 |  |
 | ------- |
