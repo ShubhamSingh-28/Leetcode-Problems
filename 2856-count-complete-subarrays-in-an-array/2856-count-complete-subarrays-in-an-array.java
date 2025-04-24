@@ -9,10 +9,10 @@ class Solution {
 
         int count=set.size();
         for(int i=0;i<n;i++){
-            Set<Integer> temp= new HashSet<>();
+            set.clear();
             for(int j=i;j<n;j++){
-                temp.add(nums[j]);
-                if(temp.size()==count){
+                set.add(nums[j]);
+                if(set.size()==count){
                     res+=n-j;
                     break;
                 }
