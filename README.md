@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2716-prime-subtraction-operation) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
