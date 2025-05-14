@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Binary Search
 |  |
 | ------- |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Math
 |  |
 | ------- |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3447-clear-digits) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3732-calculate-score-after-performing-instructions) |
 ## String
 |  |
 | ------- |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3451-string-compression-iii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Stack
 |  |
 | ------- |
