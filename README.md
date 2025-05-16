@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2915-count-of-interesting-subarrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Depth-First Search
