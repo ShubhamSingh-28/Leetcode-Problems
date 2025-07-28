@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
