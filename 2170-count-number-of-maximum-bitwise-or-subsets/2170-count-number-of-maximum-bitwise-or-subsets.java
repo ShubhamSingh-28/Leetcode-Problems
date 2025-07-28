@@ -1,19 +1,17 @@
 class Solution {
     public int countMaxOrSubsets(int[] nums) {
         int targetOr=0;
-        for(int i : nums){
-            targetOr |= i;
+        for(int num:nums){
+            targetOr |= num;
         }
-        return count(0, nums, 0, targetOr);
+        return count(0,nums,0,targetOr);
     }
-
-    public int count(int index, int[] nums, int curOr, int targetOr){
-        if(index==nums.length){
+    private int count(int i,int nums[],int curOr,int targetOr){
+        if(i==nums.length){
             return (curOr==targetOr)?1:0;
         }
-        int pick = count(index+1, nums, curOr | nums[index], targetOr);
-        int nopick = count(index+1, nums, curOr, targetOr);
-        return pick + nopick;
+        int pick=count(i+1,nums,curOr|nums[i],targetOr);
+        int noPick=count(i+1,nums,curOr,targetOr);
+        return pick+noPick;
     }
-
 }
