@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0971-shortest-bridge](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0971-shortest-bridge) |
 | [1014-k-closest-points-to-origin](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0721-accounts-merge) |
+| [0940-fruit-into-baskets](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
@@ -1006,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0940-fruit-into-baskets](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1755-defuse-the-bomb](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
