@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3790-fruits-into-baskets-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -1258,8 +1261,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2868-continuous-subarrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Geometry
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
