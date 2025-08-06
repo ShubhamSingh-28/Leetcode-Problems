@@ -1,17 +1,14 @@
 class Solution {
     public int myAtoi(String s) {
-        int i = 0, n = s.length(), sign = 1, ans = 0;
-
-        while (i < n && s.charAt(i) == ' ') {
+        int ans=0;
+        int i=0, n=s.length();
+        int sign=1;
+        while(i<n && s.charAt(i)==' ')i++;
+        if(i<n && (s.charAt(i)=='+' || s.charAt(i)=='-')){
+            sign = (s.charAt(i)=='-')?-1:1;
             i++;
         }
-
-        if (i < n && (s.charAt(i) == '+' || s.charAt(i) == '-')) {
-            sign = (s.charAt(i) == '-') ? -1 : 1;
-            i++;
-        }
-        
-        while (i < n && s.charAt(i) >= '0' && s.charAt(i) <= '9') {
+        while(i<n && s.charAt(i)>='0' && s.charAt(i)<='9'){
             int digit = s.charAt(i) - '0';
 
             if(ans>(Integer.MAX_VALUE - digit)/10){
@@ -21,7 +18,6 @@ class Solution {
             ans = ans * 10 + digit;
             i++;
         }
-
-        return ans * sign;
+        return ans*sign;
     }
 }
