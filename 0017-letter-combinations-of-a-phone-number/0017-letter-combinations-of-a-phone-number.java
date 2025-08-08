@@ -1,6 +1,7 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
-        HashMap<Character, String> map= new HashMap<Character, String>();
+        List<String> res = new ArrayList<>();
+        Map<Character,String> map = new HashMap<>();
         map.put('2',"abc");
         map.put('3',"def");
         map.put('4',"ghi");
@@ -9,31 +10,22 @@ class Solution {
         map.put('7',"pqrs");
         map.put('8',"tuv");
         map.put('9',"wxyz");
-
-        List<String> res = new ArrayList<String>();
-        if (digits.length() == 0) {
-            return res;
-        }
-        recur(digits,0,"",res,map);
+        if(digits.length()==0) return res;
+        backtrack(digits,map,res,"",0);
         return res;
     }
 
-    public void recur (String digits, int ind,String cur, List<String> res,HashMap<Character, String> map){
-        
-        // base case 
-        if(ind== digits.length()){
-            res.add(cur);
+    private void backtrack(String digits,Map<Character,String> map,List<String> res,String ans, int i){
+        if(i==digits.length()){
+            res.add(ans);
             return;
         }
-
-        // main task
-        char a = digits.charAt(ind);
-        String current= map.get(a);
-        for(int i=0; i<current.length(); i++){
-            cur+=current.charAt(i);
-            recur(digits,ind+1,cur,res,map);
-            cur=cur.substring(0,cur.length()-1);
-
+        char curChar= digits.charAt(i);
+        String cur = map.get(curChar);
+        for(int ind=0;ind<cur.length();ind++){
+            ans+=cur.charAt(ind);
+            backtrack(digits,map,res,ans,i+1);
+            ans=ans.substring(0,ans.length()-1);
         }
     }
 }
