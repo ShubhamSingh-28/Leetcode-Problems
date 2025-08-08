@@ -17,9 +17,9 @@ class Solution {
         if (i < 0 || i >= n || j < 0 || j >= n) {
             return 0;
         }
-        if (i == n-1 && j == n-1) {
-            return 0;
-        }
+        // if (i == n-1 && j == n-1) {
+        //     return 0;
+        // }
          if ( i == j || i > j) {
             return 0;
         }
@@ -33,9 +33,9 @@ class Solution {
         if (i < 0 || i >= n || j < 0 || j >= n) {
             return 0;
         }
-        if (i == n-1 && j == n-1) {
-            return 0;
-        }
+        // if (i == n-1 && j == n-1) {
+        //     return 0;
+        // }
          if ( i == j || j > i) {
             return 0;
         }
