@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0721-accounts-merge) |
+| [0900-reordered-power-of-2](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0900-reordered-power-of-2) |
 | [1014-k-closest-points-to-origin](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0721-accounts-merge) |
+| [0900-reordered-power-of-2](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1023-time-based-key-value-store) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0670-maximum-swap](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1500-count-largest-group](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1500-count-largest-group) |
@@ -1146,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [0900-reordered-power-of-2](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -1197,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0900-reordered-power-of-2) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Counting Sort
