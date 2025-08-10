@@ -9,33 +9,30 @@
  * }
  */
 class Solution {
-    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-         ListNode anshead= new ListNode(-1);
-        ListNode anstail=anshead;
-        while(list1!=null && list2!=null){
-            if(list1.val<list2.val){
-                anstail.next=new ListNode(list1.val);
-                list1=list1.next;
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        ListNode head =new ListNode(-1);
+        ListNode tail=head;
+        while(l1!=null && l2!=null){
+            if(l1.val<l2.val){
+                tail.next = new ListNode(l1.val);
+                l1=l1.next;
             }else{
-                anstail.next=new ListNode(list2.val);
-                list2=list2.next;
+                tail.next = new ListNode(l2.val);
+                l2=l2.next;
             }
-            anstail=anstail.next;
+            tail= tail.next;
         }
-        while(list1!=null){
-                anstail.next=new ListNode(list1.val);
-                list1=list1.next;
-            anstail=anstail.next;
+        while(l1!=null){
+            tail.next = new ListNode(l1.val);
+            l1=l1.next;
+            tail= tail.next;
         }
-
-        while( list2!=null){
-                anstail.next=new ListNode(list2.val);
-                list2=list2.next;
-            anstail=anstail.next;
+        while(l2!=null){
+            tail.next = new ListNode(l2.val);
+            l2=l2.next;
+            tail= tail.next;
         }
-        ListNode t1 = anshead;
-         anshead=anshead.next;
-         t1.next=null;
-         return anshead;
+         head =head.next;
+         return head;
     }
 }
