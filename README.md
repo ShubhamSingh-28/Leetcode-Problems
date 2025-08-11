@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2529-range-product-queries-of-powers) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2509-minimize-xor](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2509-minimize-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2529-range-product-queries-of-powers) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3394-minimum-array-end) |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
+| [2529-range-product-queries-of-powers](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
