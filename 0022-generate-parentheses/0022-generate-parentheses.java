@@ -1,21 +1,20 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> res= new ArrayList<>();
-        back(n,res,"",0,0);
+        List<String> res = new ArrayList<>();
+        generate(n,0,0,res,"");
         return res;
     }
-    public void back(int n, List<String> res, String s, int left, int right){
+    private void generate(int n, int i,int j,List<String> res,String s){
         if(s.length()==n*2){
             res.add(s);
             return;
         }
-        if(left<n){
-            back(n,res,s+"(", left+1,right);
+        if(i<n){
+            generate(n,i+1,j,res,s+'(');
         }
-
-        if(right<left){
-            back(n,res,s+")", left,right+1);
+        if(i>j){
+            generate(n,i,j+1,res,s+')');
         }
-
     }
+
 }
