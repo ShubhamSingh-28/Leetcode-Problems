@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0670-maximum-swap](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0826-soup-servings) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
