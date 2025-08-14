@@ -1,21 +1,13 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int res = -1;
-        int start = 0;
-        int end = nums.length-1;
-        while (start<= end) {
-            int mid = start + (end-start)/2;
-            if (nums[mid] == target) {
-                res = mid;
-                break;
-            } else if (nums[mid] < target) {
-                start = mid+1;
-            } else {
-                end =mid-1;
-            }
+        int s=0;
+        int e =nums.length-1;
+        while(s<=e){
+            int m=s+(e-s+1)/2;
+            if(nums[m]==target) return m;
+            else if(nums[m]<target) s=m+1;
+            else  e=m-1;
         }
-        return res;
+        return -1;
     }
-
-    
 }
