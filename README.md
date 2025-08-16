@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1448-maximum-69-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2089-maximum-matrix-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1448-maximum-69-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
