@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0670-maximum-swap](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1014-k-closest-points-to-origin) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
@@ -1037,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0867-new-21-game](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1755-defuse-the-bomb](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -1306,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0867-new-21-game) |
 ## Interactive
 |  |
 | ------- |
