@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0679-24-game](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0721-accounts-merge) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0670-maximum-swap](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0900-reordered-power-of-2) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0679-24-game) |
 | [0813-all-paths-from-source-to-target](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
