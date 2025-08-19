@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2716-prime-subtraction-operation) |
