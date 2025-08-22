@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3639-zero-array-transformation-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Heap (Priority Queue)
 |  |
