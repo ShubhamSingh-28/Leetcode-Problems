@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
@@ -863,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0867-new-21-game](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
