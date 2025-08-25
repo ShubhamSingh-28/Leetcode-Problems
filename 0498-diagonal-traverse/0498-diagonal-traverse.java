@@ -3,7 +3,7 @@ class Solution {
         int n=mat.length;
          int m=mat[0].length;
          int res[]= new int[n*m];
-         Map<Integer,List<Integer>> mp = new HashMap<>();
+         Map<Integer,List<Integer>> mp = new LinkedHashMap<>();
 
          for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
@@ -14,9 +14,10 @@ class Solution {
             }
          }
          int index=0;
-         for (int k = 0; k <= n + m - 2; k++) {
-            List<Integer> diagonal = mp.get(k);
-            if (k % 2 == 0) {
+         for (Map.Entry<Integer, List<Integer>> entry : mp.entrySet()) {
+             int key = entry.getKey();
+             List<Integer> diagonal = entry.getValue();
+            if (key % 2 == 0) {
                 Collections.reverse(diagonal);
             }
             for (int val : diagonal) {
