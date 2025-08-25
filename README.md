@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0525-contiguous-array) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0498-diagonal-traverse](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0733-flood-fill) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShubhamSingh-28/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
